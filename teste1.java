@@ -1,3 +1,4 @@
+//aula01
 package casa01;
 import java.util.Scanner;
 public class teste1 {
@@ -16,7 +17,7 @@ public class teste1 {
 			soma = soma+nota;
 		}
 		media = soma/quantidade;
-		System.out.println("A média é:"+media);
+		System.out.println("A média é:" + media);
 		if(media>6) {
 		    System.out.println("Aprovado");	
 		}else if(media>=4) {
